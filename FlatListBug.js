@@ -1,0 +1,1 @@
+This bug occurs when using the `FlatList` component in React Native with a large dataset.  The issue manifests as slow scrolling, janky animations, or even crashes. This is often caused by inefficient rendering or data handling within the `renderItem` function.
